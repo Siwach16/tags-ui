@@ -1,1 +1,4 @@
-
+excapp('''
+global:
+  clean: true
+''')
